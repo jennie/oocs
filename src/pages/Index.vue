@@ -41,24 +41,24 @@
         <h2>The Problem</h2>
 
         <p>
-          Permanent space for artists to work, learn, create and exhibit work
-          has long been out of reach in Toronto. At the whims of the commercial
-          market, and facing the extreme scarcity of affordable space managed by
-          local government and through short-term rental programs, hundreds of
-          groups have been forced to cease operations because of the lack of
-          secure space for decades.
+          Permanent space for small arts organizations has long been out of
+          reach in Toronto. At the whims of a meteoric commercial market, and
+          facing the extreme scarcity of affordable space managed by local
+          government and through short-term rental programs, vital arts groups
+          have been forced to cease operations for lack of secure space for
+          decades.
         </p>
 
         <p>
-          Development displaces Black and other racialized communities, and
-          projects that promise space for culture inevitably primarily benefit
-          new, higher-income residents, and investors rather than existing
-          communities.
+          Real estate development disproportionately displaces Black and other
+          racialized communities, and projects that promise space for culture
+          primarily benefit new, higher-income residents and investors rather
+          than existing communities.
         </p>
 
         <p>
           As the market escalates, community asset ownership and governance will
-          keep our communities vital and viable.
+          keep our neighbourhoods vital and viable.
         </p>
 
         <h2>Vision</h2>
@@ -66,13 +66,13 @@
         <p>
           We envision a near future where every Toronto neighborhood with
           community-owned spaces where residents can create, experience and
-          learn about visual and media art enjoy stabilized property values,
+          learn about visual and media art enjoys stabilized property values,
           thriving microeconomies, and strong connections between residents,
           artists and a constellation of community organizations.
         </p>
 
         <p>
-          Rather than mega-investments into large central hubs, we see a
+          Rather than mega-investments into risky, large central hubs, we see a
           decentralized network of smaller spaces that are contextually
           sensitive to the neighbourhoods in which they are situated – sized to
           make operating costs manageable by local community trusts working in
@@ -92,10 +92,10 @@
           In the future, every artist in Toronto will be able to find adequate
           affordable workspace in their home neighbourhood, and have all the
           resources they need to thrive in their practice and in their
-          communities. Arts organizations are supported in fundraising and
+          communities. Arts organizations will be supported in fundraising and
           planning efforts as they seek space for their members and communities.
-          Artists, community and arts organizations leverage the financial and
-          creative control they have to improve conditions for the whole
+          Artists, community and arts organizations will leverage the financial
+          and creative control they have to improve conditions for the whole
           community.
         </p>
 
@@ -114,10 +114,11 @@
         <h2>About</h2>
 
         <p>
-          TMAC was first conceptualized in 2003, after almost 15 years of
-          organizing and theorizing solutions to the problem of affordable,
-          permanent space for artists in the City of Toronto. The organization
-          incorporated in 2011 and attained charitable status in 2013.
+          Backbone organization the Toronto Media Arts Cluster (TMAC) was first
+          conceptualized in 2003, after almost 15 years of organizing and
+          theorizing solutions to the problem of affordable, permanent space for
+          artists in the City of Toronto. The organization incorporated in 2011
+          and attained charitable status in 2013.
         </p>
 
         <p>
@@ -129,37 +130,43 @@
           developer failed to complete construction of the space on time and
           eventually went bankrupt; TMAC was forced to engage in a lawsuit to
           operate the space on an interim basis. We moved into our facility in
-          March 2018.
+          March 2018, and, unable to fundraise money required in a settlement
+          due to the COVID-19 pandemic, lost our lawsuit in November 2020. TMAC
+          and its member orgs were forced to move out in July 2021. (Read the
+          whole tale here.)
         </p>
 
         <p>
-          Today, TMAC has organically grown into an integrated collaborative
-          organization supporting its members, the West Queen West community,
-          and all of Toronto’s media artists and artist-run centres with a
-          particular focus on queer, gender-marginalized, Black and racialized
-          artists. AQS a community benefit, TMAC’s programming brings vital
-          jobs, education, and stability to the neighbourhood; generates income
-          for businesses in the area through regular public events; and brings
-          all of the social benefits of engaging with the arts directly to the
-          local community.
+          In its 2+ years of operation at the 32 Lisgar site, TMAC organically
+          grew into an integrated collaborative organization supporting its
+          members, the West Queen West community, and all of Toronto’s media
+          artists and artist-run centres with a particular focus on queer,
+          gender-marginalized, Black and racialized artists. As a community
+          benefit, TMAC’s programming brought vital jobs, education, and
+          stability to the neighbourhood; generated income for businesses in the
+          area through regular public events; and brought all of the social
+          benefits of engaging with the arts directly to the local community.
         </p>
 
         <p>
           Our collaborators believe the collective impact approach is crucial to
-          the success of this initiative, as every aspect requires thoughtful
-          collaboration with all stakeholders centred on equity. Having worked
-          together for years on various programs and projects, including
-          failures and successes, our vision for a network of community-owned,
-          artist-stewarded spaces across the City is shared despite the varying
-          needs and resources of each partner. Our goal is to develop a model
-          replicable not only across the GTA, but across Canada.
+          the success of the Office of Creative Space, as every aspect requires
+          thoughtful collaboration with all stakeholders centred on equity.
+          Having worked together for years on various programs and projects,
+          including failures and successes, our vision for a network of
+          community-owned, artist-stewarded spaces across the City is shared
+          despite the varying needs and resources of each partner. Our goal is
+          to develop a model replicable not only across the GTA, but across
+          Canada.
         </p>
 
         <h2>Model</h2>
 
         <p>
           Using social finance investment tools, we purchase real estate in the
-          GTA to stabilize space costs in an escalating market. We also plan to:
+          GTA to sell to community arts land trusts and co-ops on favourable
+          terms, stabilizing space costs in an escalating market. We also plan
+          to:
         </p>
 
         <ul>
