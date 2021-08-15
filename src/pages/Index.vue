@@ -38,6 +38,8 @@
           social enterprise, or supportive individual or business, we'd love to
           have you involved.
         </p>
+        <Contact />
+
         <h2>The Problem</h2>
 
         <p>
