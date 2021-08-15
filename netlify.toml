@@ -1,0 +1,9 @@
+[build]
+  publish = "dist"
+  command = "gridsome build"
+  functions = "functions/"
+
+[[plugins]]
+package = 'netlify-plugin-contextual-env'
+  [plugins.inputs]
+  mode = 'prefix'

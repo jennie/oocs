@@ -1,0 +1,29 @@
+{
+  "name": "xojennie",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@gridsome/source-datocms": "^0.3.0",
+    "@gridsome/transformer-remark": "^0.6.4",
+    "@tailwindcss/postcss7-compat": "^2.0.2",
+    "@tailwindcss/typography": "^0.3.1",
+    "autoprefixer": "^9.8.6",
+    "gridsome": "^0.7.0",
+    "gsap": "^3.6.0",
+    "postcss": "^7.0.35",
+    "rehype-stringify": "^8.0.0",
+    "remark-breaks": "^2.0.1",
+    "remark-parse": "^9.0.0",
+    "remark-rehype": "^8.0.0",
+    "retext-smartypants": "^4.0.0",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2",
+    "unified": "^9.2.0"
+  },
+  "devDependencies": {
+    "postcss-nested": "^4.2.3"
+  }
+}

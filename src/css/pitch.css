@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Pitch';
+    src: url('Pitch-BoldItalic.woff2') format('woff2'),
+        url('Pitch-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pitch';
+    src: url('Pitch-Bold.woff2') format('woff2'),
+        url('Pitch-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pitch';
+    src: url('Pitch-Regular.woff2') format('woff2'),
+        url('Pitch-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pitch';
+    src: url('Pitch-BoldItalic.woff2') format('woff2'),
+        url('Pitch-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pitch';
+    src: url('Pitch-RegularItalic.woff2') format('woff2'),
+        url('Pitch-RegularItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pitch';
+    src: url('Pitch-RegularItalic.woff2') format('woff2'),
+        url('Pitch-RegularItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pitch';
+    src: url('Pitch-Bold.woff2') format('woff2'),
+        url('Pitch-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pitch';
+    src: url('Pitch-Regular.woff2') format('woff2'),
+        url('Pitch-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
