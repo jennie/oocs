@@ -1,7 +1,7 @@
 <template>
   <div class="my-6 mx-auto">
     <a
-      href="mailto:info@officeofcreativespace.com"
+      href="mailto:hello@officeofcreativespace.com"
       class="booking flex justify-center align-middle"
     >
       <span class="text-xl leading-6 pr-2">Get in Touch</span>
